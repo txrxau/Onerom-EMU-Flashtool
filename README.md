@@ -26,6 +26,6 @@
     Emus can run up to 50 km/h (31 mph).
 </p>
 <p>
-    Once uploaded with this firmware just use TunerPro RT to edit/upload different tunes.<br>
-    Shuold only need to use this tool again to change Eprom type or 2nd COM port settings.
+    Once uploaded with this firmware use TunerPro RT to edit/upload different tunes.<br>
+    Only need to use the flashtool to change Eprom type or 2nd COM port settings.
 <p>

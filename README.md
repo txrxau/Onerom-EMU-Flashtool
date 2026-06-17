@@ -17,7 +17,7 @@ Select .bin file.<p>
 Build image.<p>
 STOP (If OneROM is running, Should auto detect but may need to press Refresh).<p>
 FLASH<p>
-RUN starts the Emu.
+RUN starts the Emu.<br>
 <p>
     Once uploaded with this firmware just use TunerPro to edit/upload different tunes.<br>
     Shuold only need to use this tool again to change Eprom type or 2nd COM port settings.

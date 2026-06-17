@@ -17,7 +17,7 @@ STOP If OneROM is running, Should auto detect but may need to press Refresh.
 
 FLASH
 
-RUN to bring device up.
+RUN starts the Emu.
 
 <p>
     <img src="EMU.jpg" width="320"/>

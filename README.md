@@ -1,9 +1,10 @@
 # Ostrich-compatible protocol serial emulation device for One ROM flashtool
-<br>
-One ROM EMU Flashtool for Fire 28 (A or B)
 <p>
-Flashes a custom Ostrich-compatible protocol serial emulator on a One ROM Fire 28 for realtime ECU/PCM tuning, compatible with TunerPro RT.<br>
-Released as is, where is.<p>
+    One ROM EMU Flashtool for Fire 28 (A or B)
+</p>
+<p>
+    Flashes a custom Ostrich-compatible protocol serial emulator on a One ROM Fire 28 for realtime ECU/PCM tuning, compatible with TunerPro RT.<br>
+    Released as is, where is.<p>
     Bank switching is disabled, UART uses the One ROM SELA and SELB pins.
 </p>
 <p>
@@ -11,13 +12,13 @@ Released as is, where is.<p>
     <img src="onerom_emu_flashtool.jpg" width="520"/>
 </p>
 <p>
-Choose Eprom type.<p>
-Serial Port 2: NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden, I don't think normal will work but I could be wrong).<p>
-Select .bin file.<p>
-Build image.<p>
-STOP (If OneROM is running, Should auto detect but may need to press Refresh).<p>
-FLASH<p>
-RUN starts the Emu.
+    Choose Eprom type.<p>
+    Serial Port 2: NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden, I don't think normal will work but I could be wrong).<p>
+    Select .bin file.<p>
+    Build image.<p>
+    STOP (If OneROM is running, Should auto detect but may need to press Refresh).<p>
+    FLASH<p>
+    RUN starts the Emu.
 </p>
 <p>
     <img src="EMU.jpg" width="320"/><br>

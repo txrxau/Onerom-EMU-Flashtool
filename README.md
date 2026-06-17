@@ -20,7 +20,7 @@ FLASH<p>
 RUN starts the Emu.
 </p>
 <p>
-    <img src="EMU.jpg" width="320"/>
+    <img src="EMU.jpg" width="320"/><br>
     Emus can run up to 50 km/h (31 mph).
 </p>
 <p>

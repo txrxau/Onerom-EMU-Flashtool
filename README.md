@@ -30,6 +30,6 @@
     Only need to use the flashtool to change Eprom type or 2nd COM port settings.
 <p>
 <p>
-    Original One ROM Project information can be found here<br>
+    Information about the original One ROM Project can be found here<br>
     https://onerom.org/
 </p>

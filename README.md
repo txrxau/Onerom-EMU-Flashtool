@@ -10,7 +10,7 @@ Released as is, where is.
 </p>
 <br>
 Choose Eprom type.<p>
-Serial Port 2: NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden, I don't think it'll work but i could be wrong).<p>
+Serial Port 2: NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden, I don't think it'll work but I could be wrong).<p>
 Select .bin file.<p>
 Build image.<p>
 STOP (If OneROM is running, Should auto detect but may need to press Refresh).<p>

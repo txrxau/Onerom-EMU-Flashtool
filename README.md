@@ -20,3 +20,4 @@ RUN starts the Emu.
 <p>
     <img src="EMU.jpg" width="320"/>
 </p>
+Emus can run up to 48 to 50 km/h (30 to 31 mph).

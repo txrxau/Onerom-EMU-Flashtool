@@ -1,6 +1,8 @@
 # Ostrich-compatible protocol serial emulation device for onerom flashtool
 <br>
-## One ROM EMU Flashtool for Fire 28 (A or B)<br>
+One ROM EMU Flashtool for Fire 28 (A or B)
+<p>
+
 <p>
     <img src="onerom_emu_flashtool.jpg" width="520"/>
 </p>

@@ -15,7 +15,7 @@ Select .bin file.
 
 Build image.
 
-STOP If OneROM is running, Should auto detect but may need to press Refresh.
+STOP (If OneROM is running, Should auto detect but may need to press Refresh).
 
 FLASH
 

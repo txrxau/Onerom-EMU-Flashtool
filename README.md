@@ -31,5 +31,5 @@
 <p>
 <p>
     Information about the original One ROM Project can be found here<br>
-    https://onerom.org/
+    https://onerom.org/ or https://github.com/piersfinlayson/one-rom
 </p>

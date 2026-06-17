@@ -27,7 +27,7 @@
 </p>
 <p>
     Once uploaded with this firmware use TunerPro RT to edit/upload different tunes.<br>
-    Only need to use the flashtool to change Eprom type or 2nd COM port settings.
+    Only need to use the flashtool to change Eprom type or 2nd COM port settings after initial flashtool use.
 <p>
 <p>
     Information about the original One ROM Project can be found here<br>

@@ -2,7 +2,7 @@
 <br>
 One ROM EMU Flashtool for Fire 28 (A or B)
 <p>
-Flashes a custom Ostrich-compatible protocol serial emulator on to a One ROM Fire 28 for realtime ECU/PCM tuning and compatible with TunerPro RT.<br>
+Flashes a custom Ostrich-compatible protocol serial emulator on a One ROM Fire 28 for realtime ECU/PCM tuning, compatible with TunerPro RT.<br>
 Released as is, where is.
 <p>
 <p>

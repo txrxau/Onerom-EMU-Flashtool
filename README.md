@@ -9,7 +9,7 @@ One ROM EMU Flashtool for Fire 28 (A or B)
 <br>
 Choose Eprom type.
 
-Serial Port 2 enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden).
+Serial Port 2: NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden).
 
 Select .bin file.
 

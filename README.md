@@ -11,14 +11,14 @@
 </p>
 <p>
 <p>
-    <img src="onerom_emu_flashtool.jpg" width="520"/>
+    <img src="onerom_emu_flashtool_0.1.2.jpg" width="520"/>
 </p>
 <p>
     <b>Choose Eprom type.</b><p>
     <b>Serial Port 2:</b> NORMAL is enabled 115200 8N1 or Disabled (Use DISABLED for GM/Holden, I don't think normal will work but I could be wrong).<p>
     <b>Select .bin file.</b><p>
     <b>Build image.</b><p>
-    <b>STOP</b> (If OneROM is running, Should auto detect but may need to press Refresh).<p>
+    <b>STOP</b> (If OneROM is running, Should auto detect but may need to press Rescan).<p>
     <b>FLASH</b><p>
     <b>RUN</b> starts the Emu.
 </p>

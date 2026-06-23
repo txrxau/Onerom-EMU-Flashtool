@@ -20,7 +20,7 @@
     <b>Build image.</b><p>
     <b>STOP</b> (If OneROM is running, Should auto detect but may need to press Rescan).<p>
     <b>FLASH</b><p>
-    <b>RUN</b> starts the Emu.
+    <b>RUN</b> the Emu.
 </p>
 <p>
     <img src="EMU.jpg" width="320"/><br>

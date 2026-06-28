@@ -1,4 +1,4 @@
-# Ostrich-compatible protocol serial emulation device for One ROM flashtool
+# Ostrich-compatible protocol serial emulation device for One ROM EMU flashtool
 <p>
     One ROM EMU Flashtool for Fire 28 (A or B)
 </p>
